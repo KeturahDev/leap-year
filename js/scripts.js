@@ -1,6 +1,6 @@
 //business logic
 var leapYear = function() {
-    
+    return false;
 }
 
 //user interface
