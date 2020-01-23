@@ -33,3 +33,15 @@ _HTML, CSS, Markdown, JQuery, Javascript, Bootstrap, VS Code_
 *MIT License*
 
 Copyright (c) 2020 **_Keturah Howard and Alondra Daisy_**
+
+Leap Year Table
+
+| Behavior | Input | Output | 
+--- | --- | --- | --- |
+Return false if year input is not a leap year | 1993 | false | --- | --- | --- | --- |
+Return true if they year divisible by four equally, no remainder | 2004 | true 
+Return false if year is divisible by 100 | 1900 | false | --- | --- | --- | --- |
+Return true if they year is divisible by 400 | 2000 | true 
+
+
+
